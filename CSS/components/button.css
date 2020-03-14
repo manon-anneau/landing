@@ -1,0 +1,17 @@
+.btn-orange{
+	background-color: #F28123;
+	color: white;
+	padding: 15px 20px;
+	margin: 10px auto;
+	border-radius: 4px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+}
+
+.btn-orange:hover{
+	background-color: #553739;
+	color: white;
+}
+
+}
